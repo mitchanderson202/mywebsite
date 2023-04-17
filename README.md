@@ -12,7 +12,7 @@ Still in production
 ## Purpose
 
 - I need a website with my name to it, somewhere I can keep upto date with my currenty works and links to projects etc.
-- Nothing too fancy. I have installed some unnecessary things like MobX & Typescript. Originally this was going to be bigger than it is, but a tech test has popped up that I must focus on. This can be resumed later.
+- Nothing too fancy. I have installed some unnecessary things like MobX & Typescript. Originally this was going to be bigger than it is, but some important work has popped up that I must focus on. This can be resumed later.
 
 ---
 
