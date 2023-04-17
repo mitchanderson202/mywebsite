@@ -1,0 +1,36 @@
+@import "../../Themes/Themes.scss";
+
+.socials {
+  height: 100%;
+  width: 100%;
+  padding: 5%;
+  color: $background_color;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+
+  h1 {
+    text-align: center;
+    grid-column: 1/3;
+    align-self: start;
+  }
+
+  img {
+    height: 50%;
+    width: 50%;
+  }
+
+  img:hover {
+    transform: scale(1.3);
+  }
+
+  .github-logo {
+    grid-column: 1/2;
+    text-align: center;
+  }
+
+  .linkedin-logo {
+    grid-column: 2/3;
+    text-align: center;
+  }
+}

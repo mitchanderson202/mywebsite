@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Employee Creator",
+    "description": "Employee Creator is a _Nology project. This is a full stack app where you can perform CRUD operations.",
+    "stack": "SPRING-BOOT | MYSQL | REACT | TYPESCRIPT",
+    "image": "./projectImages/Employee-Creator-image.png",
+    "ghLink": "https://github.com/mitchanderson202/Employee-Creator"
+  },
+  {
+    "name": "Google Books",
+    "description": "Google Books is a _Nology project, using Google's API. It contains a basic search bar, and will render your results.",
+    "stack": "REACT | SCSS",
+    "image": "./projectImages/Google-Books-image.png",
+    "ghLink": "https://github.com/mitchanderson202/Google-Books"
+  },
+  {
+    "name": "E-Commerce Store",
+    "description": "E-Commerce store is a _Nology project. Using Firebase's Firestore as a backend to render products. There is a Favourited section and a Cart.",
+    "stack": "REACT | SCSS | FIREBASE-FIRESTORE",
+    "image": "./projectImages/E-Commerce-image.png",
+    "ghLink": "https://github.com/mitchanderson202/E-Commerce",
+    "liveLink": "https://e-commerce-store-932e8.web.app/"
+  },
+  {
+    "name": "Fake OS",
+    "description": "Fake OS is a _Nology project, we had to create our operating system(Win 11), with atleast 3 desktop icons that open a widget, and a menu button. There is also a the time and date constantly showing on the taskbar.",
+    "stack": "HTML | SCSS | JAVASCRIPT",
+    "image": "./projectImages/Fake-OS-Image.png",
+    "ghLink": "https://github.com/mitchanderson202/FakeOS",
+    "liveLink": "www.livelink"
+  },
+  {
+    "name": "Morse Translator",
+    "description": "Morse Translator is a _Nology project. Basically it will turn Enlgish into Morse Code, and vice versa.",
+    "stack": "HTML | SCSS | JAVASCRIPT",
+    "image": "./projectImages/Morse-Translator-image.png",
+    "ghLink": "https://github.com/mitchanderson202/Morse-Translator",
+    "liveLink": "https://mitchanderson202.github.io/Morse-Translator/"
+  },
+  {
+    "name": "Minesweeper",
+    "description": "Minesweeper is a _Nology project. Using Java, re-create the game to be played on the Command Line.",
+    "image": "./projectImages/Minesweeper-image.png",
+    "stack": "JAVA",
+    "ghLink": "https://github.com/mitchanderson202/Minesweeper"
+  },
+
+  {
+    "name": "CEN",
+    "description": "CEN is a project I built for a friend, he runs a poker competition. There are few parts missing from the version you're looking at due to privacy.",
+    "stack": "HTML | CSS | JAVASCRIPT",
+    "image": "./projectImages/CEN-image.png",
+    "ghLink": "https://github.com/mitchanderson202/CEN",
+    "liveLink": "https://c-e-n-e89d3.web.app/"
+  }
+]

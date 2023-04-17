@@ -1,0 +1,43 @@
+@import "../../Themes/Themes.scss";
+
+.stacks {
+  height: 100%;
+  width: 100%;
+  padding: 5%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 2fr 8fr;
+
+  h1 {
+    grid-column: 1/3;
+    grid-row: 1/2;
+  }
+
+  p {
+    font-size: 1.4em;
+  }
+
+  .stack-list-left {
+    grid-column: 1/2;
+    grid-row: 2/3;
+  }
+
+  .stack-list-right {
+    grid-column: 2/3;
+    grid-row: 2/3;
+  }
+}
+
+@media screen and (max-width: 1350px) {
+  .stacks {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .stacks {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 2fr 8fr;
+  }
+}
