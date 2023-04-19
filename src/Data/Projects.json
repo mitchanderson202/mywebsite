@@ -26,8 +26,7 @@
     "description": "Fake OS is a _Nology project, we had to create our operating system(Win 11), with atleast 3 desktop icons that open a widget, and a menu button. There is also a the time and date constantly showing on the taskbar.",
     "stack": "HTML | SCSS | JAVASCRIPT",
     "image": "./projectImages/Fake-OS-Image.png",
-    "ghLink": "https://github.com/mitchanderson202/FakeOS",
-    "liveLink": "www.livelink"
+    "ghLink": "https://github.com/mitchanderson202/FakeOS"
   },
   {
     "name": "Morse Translator",
@@ -37,6 +36,7 @@
     "ghLink": "https://github.com/mitchanderson202/Morse-Translator",
     "liveLink": "https://mitchanderson202.github.io/Morse-Translator/"
   },
+
   {
     "name": "Minesweeper",
     "description": "Minesweeper is a _Nology project. Using Java, re-create the game to be played on the Command Line.",
