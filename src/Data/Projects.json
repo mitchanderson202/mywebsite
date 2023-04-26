@@ -8,9 +8,9 @@
   },
   {
     "name": "Draw Creator",
-    "description": "Front End project that I built to make a randomiser, for a potential sports draw.",
-    "stack": "REACT | SCSS| TYPESCRIPT",
-    "image": "",
+    "description": "Front End project that I built to make a randomiser for a potential sports draw.",
+    "stack": "REACT | TYPESCRIPT | SCSS",
+    "image": "./projectImages/Draw-Creator-img.png",
     "ghLink": "https://github.com/mitchanderson202/Draw-Creator",
     "liveLink": "https://draw-e7df2.web.app/"
   },
