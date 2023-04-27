@@ -12,7 +12,6 @@ const Stacks = () => {
           <p>REACT</p>
           <p>TYPESCRIPT</p>
           <p>REDUX</p>
-          <p>MOBX</p>
         </div>
         <div className="stack-list-right">
           <p>JAVA</p>
