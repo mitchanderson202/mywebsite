@@ -46,6 +46,15 @@
   },
 
   {
+    "name": "Movie Creator",
+    "description": "Movie Creator was the final project for General Assembly's Javascipt course that uses a Movie API. Enter 4 movies and click the corresponding buttons. It will then generate a story line based on those movies.",
+    "stack": "HTML | JAVASCRIPT",
+    "image": "./projectImages/Movie-Creator-img.png",
+    "ghLink": "https://github.com/mitchanderson202/GAJSFinalProject",
+    "liveLink": "https://mitchanderson202.github.io/GAJSFinalProject/"
+  },
+
+  {
     "name": "Minesweeper",
     "description": "Minesweeper is a _Nology project. Using Java, re-create the game to be played on the Command Line.",
     "image": "./projectImages/Minesweeper-image.png",
