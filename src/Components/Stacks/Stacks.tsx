@@ -11,12 +11,14 @@ const Stacks = () => {
           <p>JAVASCRIPT</p>
           <p>REACT</p>
           <p>TYPESCRIPT</p>
+          <p>CYPRESS</p>
         </div>
         <div className="stack-list-right">
           <p>JAVA</p>
           <p>SPRING BOOT</p>
           <p>MYSQL</p>
           <p>FIREBASE</p>
+          <p>GIT</p>
         </div>
       </div>
     </div>

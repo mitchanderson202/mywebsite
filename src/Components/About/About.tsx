@@ -13,12 +13,12 @@ const About = () => {
           General Assembly. Since then, I've focused on React.js and Typescript,
           and more recently, Java & Springboot. You can check out my list of
           projects and corresponding technologies to see more.
-          <br /> Currently, I'm working as a Junior Developer through{" "}
+          <br /> Currently, I'm working as a Trainee Developer through{" "}
           <a href="https://au.nology.io/" target="_blank" rel="noopener">
             _Nology.
           </a>
           <br />
-          I'm also working on a private project with some friends (TBA soon!).
+          I'm looking for Full Time work.
         </p>
       </div>
     </div>
