@@ -7,19 +7,20 @@
     "ghLink": "https://github.com/mitchanderson202/Employee-Creator"
   },
   {
+    "name": "Google Books",
+    "description": "Google Books v2. This started out as a _Nology project, using Google's API. GBv2 is a re-created version with better features, including: Search History, Sorting Functions & a Modal for each book.",
+    "stack": "REACT | TYPESCRIPT | SCSS",
+    "image": "./projectImages/Google-Books-image.png",
+    "ghLink": "https://github.com/mitchanderson202/google-books2",
+    "liveLink": "https://b-fb2a4.web.app/"
+  },
+  {
     "name": "Draw Creator",
     "description": "Front End project that I built to make a randomiser for a potential sports draw.",
     "stack": "REACT | TYPESCRIPT | SCSS",
     "image": "./projectImages/Draw-Creator-img.png",
     "ghLink": "https://github.com/mitchanderson202/Draw-Creator",
     "liveLink": "https://draw-e7df2.web.app/"
-  },
-  {
-    "name": "Google Books",
-    "description": "Google Books is a _Nology project, using Google's API. It contains a basic search bar, and will render your results.",
-    "stack": "REACT | SCSS",
-    "image": "./projectImages/Google-Books-image.png",
-    "ghLink": "https://github.com/mitchanderson202/Google-Books"
   },
   {
     "name": "E-Commerce Store",
